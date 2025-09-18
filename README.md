@@ -1,2 +1,4 @@
-# CSFE-Net
-A real-time defect detection framework that enhances small object modeling through cross-scale fusion and edge-aware features
+# CSFE-Net: A Real-Time Network for Small Defect Detection in Industrial Products
+## Datasets
+[NEU-DET](http://faculty.neu.edu.cn/songkechen/zh_CN/zdylm/263270/list/index.htm)
+
