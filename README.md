@@ -11,3 +11,4 @@ The baseline code of this project is implemented based on the Ultralytics versio
 ### CIF_Loss
 [CIF-Loss.py](https://github.com/dispy000/CSFE-Net/blob/main/CIF-Loss.py) is the core implementation code of the CIF-Loss function.
 ## More experiments
+<img width="925" height="431" alt="image" src="https://github.com/user-attachments/assets/c14ec974-1ff4-44dd-8030-ce833751985c" />
