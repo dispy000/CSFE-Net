@@ -5,9 +5,9 @@ PCB-DET is available at [PCB-DET](https://robotics.pkusz.edu.cn/resources/datase
 ## Usage
 The baseline code of this project is implemented based on the Ultralytics version of RT-DETR.
 ### CIF
-CIF.py is the core implementation code of the CIF module.
+[CIF.py](https://github.com/dispy000/CSFE-Net/blob/main/CIF.py) is the core implementation code of the CIF module.
 ### FSEE
-FSEE.py is the core implementation code of the FSEE module.
+[FSEE.py](https://github.com/dispy000/CSFE-Net/blob/main/FSEE.py) is the core implementation code of the FSEE module.
 ### CIF_Loss
-CIF-Loss.py is the core implementation code of the CIF-Loss function.
+[CIF-Loss.py](https://github.com/dispy000/CSFE-Net/blob/main/CIF-Loss.py) is the core implementation code of the CIF-Loss function.
 ## More experiments
